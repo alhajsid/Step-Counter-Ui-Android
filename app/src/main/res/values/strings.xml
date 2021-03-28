@@ -2,17 +2,19 @@
     <string name="app_name">Test App</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="you_still_need">You still need <b>4,000</b> steps to reach the goal</string>
+    <string name="you_still_need">You still need</string>
+    <string name="steps_to_reach">steps to reach the goal</string>
     <string name="calories">Calories</string>
     <string name="distance">Distance</string>
     <string name="time">Time</string>
-    <string name="_534m">534m</string>
-    <string name="_8_hrs">8 hrs</string>
+    <string name="_534m">0 m</string>
+    <string name="_8_hrs">0 hrs</string>
     <string name="_01_mar">01 Mar,</string>
     <string name="steps">steps</string>
-    <string name="_350_kl">350 kl</string>
+    <string name="_350_kl">0 kl</string>
     <string name="_5000">5000</string>
-    <string name="_1_000">1,000</string>
+    <string name="_1_000">0.0</string>
     <string name="_steps">Steps</string>
     <string name="your_activities">Your Activities</string>
+    <string name="target_reached">Congratulation 🥳 you reached</string>
 </resources>
