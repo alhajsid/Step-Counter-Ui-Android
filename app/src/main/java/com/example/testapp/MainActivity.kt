@@ -9,6 +9,7 @@ import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.example.testapp.adaptor.ViewPagerFragmentAdapter
+import com.example.testapp.data.StepData
 import com.example.testapp.fragment.UserActivityFragment
 import com.example.testapp.utils.SharedPref
 import com.google.android.material.tabs.TabLayoutMediator
